@@ -1,3 +1,4 @@
+<html>
 <body>
 <center>
 <h1>WHERE ARE YOU, PHP DEVELOPER?!?</h1>
@@ -10,6 +11,7 @@
 <p></p>Join our team of 800+ professionals across Germany, Poland, Lithuania, Vietnam, Thailand, Singapore, and Egypt. Make your own way with us.</p>
 </br>
 </div>
+
 <div id="In this role you will">
 <h3><em>In this role you will</em></h3>
 <ul>
@@ -24,6 +26,7 @@
 <li>Work closely with the infrastructure team in building and scaling back-end services as well as performing root-cause analysis investigations</li>
 <li>Write API documentation for better communication with front-end developers</li>
 </ul>
+</div>
 
 <div id="What you will bring">
 <h3><em>What you will bring</em></h3>
@@ -38,7 +41,7 @@
 <li>2 years of experience in leading engineering teams (for technical lead level)</li>
 <li>Working proficiency in English</li>
 </ul>
-
+</div>
 <div id="Why you'll love working with us">
 <h3><em>Why you'll love working with us</em></h3>
 <ul>
@@ -63,3 +66,4 @@
 <img src="https://scontent.fsgn5-14.fna.fbcdn.net/v/t39.30808-6/328532314_874904633786803_4262280503662684903_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=DM1POfZPk0UAX9HmuqP&_nc_ht=scontent.fsgn5-14.fna&oh=00_AfBpMV2lfEG6aqkBPaSrlScgzdOEd6UY7SFW-rW2-Eo4_w&oe=6578DF92" alt="NFQ Logo">
 </div>
 </body>
+</html>
