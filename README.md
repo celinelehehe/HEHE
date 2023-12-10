@@ -1,13 +1,15 @@
+<body>
 <center>
 <h1>WHERE ARE YOU, PHP DEVELOPER?!?</h1>
 <h1>WE ARE WAITING FOR YOU!!!</h1>
 </center>
 <div id="About us">
 <h3><em>About us</em></h3>
-<p>At NFQ, we're all about developing cutting-edge apps, CRMs, ERPs, and other cross-platform products. Both for ourselves and for our clients that include HomeToGo, Kayak, Alaiko, Home24, and many others. We specialize in e-commerce, mobility, and transport & logistics, and we're always eager to tackle new challenges. Whatever the area – from Mobile to UX  – we've got a team that knows it inside out.
+<p>At NFQ, we're all about developing cutting-edge apps, CRMs, ERPs, and other cross-platform products. Both for ourselves and for our clients that include HomeToGo, Kayak, Alaiko, Home24, and many others. We specialize in e-commerce, mobility, and transport & logistics, and we're always eager to tackle new challenges. Whatever the area – from Mobile to UX  – we've got a team that knows it inside out.</p>p>
 <br>
-Join our team of 800+ professionals across Germany, Poland, Lithuania, Vietnam, Thailand, Singapore, and Egypt. Make your own way with us.</p>
+<p></p>Join our team of 800+ professionals across Germany, Poland, Lithuania, Vietnam, Thailand, Singapore, and Egypt. Make your own way with us.</p>
 </br>
+</div>
 <div id="In this role you will">
 <h3><em>In this role you will</em></h3>
 <ul>
@@ -60,3 +62,4 @@ Join our team of 800+ professionals across Germany, Poland, Lithuania, Vietnam, 
 <a href="https://www.nfq.com/">Visit our website!</a>
 <img src="https://scontent.fsgn5-14.fna.fbcdn.net/v/t39.30808-6/328532314_874904633786803_4262280503662684903_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=DM1POfZPk0UAX9HmuqP&_nc_ht=scontent.fsgn5-14.fna&oh=00_AfBpMV2lfEG6aqkBPaSrlScgzdOEd6UY7SFW-rW2-Eo4_w&oe=6578DF92" alt="NFQ Logo">
 </div>
+</body>
