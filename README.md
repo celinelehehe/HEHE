@@ -4,9 +4,10 @@
 <h1>WHERE ARE YOU, PHP DEVELOPER?!?</h1>
 <h1>WE ARE WAITING FOR YOU!!!</h1>
 </center>
+
 <div id="About us">
 <h3><em>About us</em></h3>
-<p>At NFQ, we're all about developing cutting-edge apps, CRMs, ERPs, and other cross-platform products. Both for ourselves and for our clients that include HomeToGo, Kayak, Alaiko, Home24, and many others. We specialize in e-commerce, mobility, and transport & logistics, and we're always eager to tackle new challenges. Whatever the area – from Mobile to UX  – we've got a team that knows it inside out.</p>
+<p>At NFQ, we're all about developing cutting-edge apps, CRMs, ERPs, and other cross-platform products. Both for ourselves and for our clients that include HomeToGo, Kayak, Alaiko, Home24, and many others. We specialize in e-commerce, mobility, and transport & logistics, and we're always eager to tackle new challenges. Whatever the area – from Mobile to UX  – we've got a team that knows it inside out.</p><br />
 <p>Join our team of 800+ professionals across Germany, Poland, Lithuania, Vietnam, Thailand, Singapore, and Egypt. Make your own way with us.</p>
 </div>
 
